@@ -1,40 +1,12 @@
-# Data Scientist
+I am a Ph.D. candidate in Economics at Oxford University. My research focuses on political, experimental, and behavioral economics. Mathematics has been my primary love, so I am trying to understand political behaviour using mathematical tools and understand the science behind propaganda. 
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+My research interests lie primarily in applied microeconomics with application to public economics, labour economics and health economics. I am keen on determining the sorts of risk individuals face over their life time and to what extent can individuals insure against these risks through their own decision or various government provided social insurance schemes. I want my research to primarily focus on developing and testing models that investigates the impact of government and private social insurance schemes on the household well-being, household savings, labour supply, and health of a country. For instance, I would use computer stimulations of uncertainty in a life cycle framework and pursue numerical dynamic programming to estimate lifecycle models which link household decisions in each period with their well-being in that period and their consequent well-being in future periods. I want to exploit on two recent advances in the field of estimation of life-cycle models. First, I would use the administrative data, often linked to survey panel data as it allows for more accurate measurement. Second, I would use frontier computational methods and computer investments such as large computer clusters and GPUs to estimate these models. Furthermore, I want to emphasize on risks individual faces to their health and family structure, and determine how to improve health outcomes and lifestyle patterns through these schemes and reforms. In the context of health insurance markets, I want to make sure that the consequences of government intervention not only include its static effects on insurance coverage, but also include important dynamic effects on the technological change, which is the primary driving factor behind the dramatic increase in real per capita medical expenditure. I am also interested in the question of how to design empirical tests for the existence of asymmetric information in the insurance market, and facilitate welfare improving government intervention.
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+My non-academic interests include Geopolitics, History, and Anthropology. My range of music spans as wide as oceans, ranging from hip-hop to country music, Jazz to Rock, Spanish to Mongolian, Pubjabi to Bhojpuri, Lata Mangeshkar to Alka Yagnik, Kishore Kumar to Kumar Sanu, Honey Singh to Gurdass Mann, and contemporary Hindi music to classical Indian music.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## EDUCATION
+D.Phil. Economics (2027), University of Oxford 
+M.Phil. Economics (2025), University of Oxford
+M.Sc. Economics (2022), University of Manchester
+M.Sc. Applied Mathematics (2022), Imperial College London
+B.Sc. Mathematics (2020), Iowa State University
