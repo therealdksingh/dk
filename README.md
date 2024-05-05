@@ -5,8 +5,8 @@ My research interests lie primarily in applied microeconomics with application t
 My non-academic interests include Geopolitics, History, and Anthropology. My range of music spans as wide as oceans, ranging from hip-hop to country music, Jazz to Rock, Spanish to Mongolian, Pubjabi to Bhojpuri, Lata Mangeshkar to Alka Yagnik, Kishore Kumar to Kumar Sanu, Honey Singh to Gurdass Mann, and contemporary Hindi music to classical Indian music.
 
 ## EDUCATION
-D.Phil. Economics (2027), University of Oxford 
-M.Phil. Economics (2025), University of Oxford
-M.Sc. Economics (2022), University of Manchester
-M.Sc. Applied Mathematics (2022), Imperial College London
-B.Sc. Mathematics (2020), Iowa State University
+D.Phil. Economics (2027), University of Oxford  
+M.Phil. Economics (2025), University of Oxford  
+M.Sc. Economics (2022), University of Manchester  
+M.Sc. Applied Mathematics (2022), Imperial College London  
+B.Sc. Mathematics (2020), Iowa State University  
