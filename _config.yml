@@ -9,7 +9,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
 title                    : "DK"
 title_separator          : "-"
 name                     : &name "Dheeraj Kumar (DK) Singh"
